@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #101820;
+  color: #f8f9fa;
+  text-align: center;
+}
+header {
+  background: #1a2233;
+  padding: 15px;
+}
+nav button {
+  background: #00b894;
+  border: none;
+  padding: 10px 15px;
+  color: white;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+nav button:hover {
+  background: #019870;
+}
+.card {
+  background: #1f2a3c;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 8px;
+}
+footer {
+  background: #1a2233;
+  padding: 10px;
+  font-size: 14px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
